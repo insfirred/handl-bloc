@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361229601710",
+    "project_id": "handl-bloc",
+    "storage_bucket": "handl-bloc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361229601710:android:84e334beef892f2903d63f",
+        "android_client_info": {
+          "package_name": "com.example.handl_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3ofUOgSgpu1d9UOUL_SpcNTcMyfZZpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,16 +1,27 @@
-# handl_bloc
+![](./Assets/header.png)
 
-A new Flutter project.
+# HandL
 
-## Getting Started
+A social media app where user can post images, tweets and chat in realtime with other users.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Minimalist social media platform lets users post tweets and images.
+- Users can chat in realtime with other users.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots 
+
+<p float="left">
+  <img src="/assets/github_ss/1.png" width="300" />
+
+  <img src="/assets/github_ss/2.png" width="300" />
+
+  <img src="/assets/github_ss/3.png" width="300" />
+
+  <img src="/assets/github_ss/4.png" width="300" />
+
+  <img src="/assets/github_ss/5.png" width="300" />
+
+  <img src="/assets/github_ss/6.png" width="300" />
